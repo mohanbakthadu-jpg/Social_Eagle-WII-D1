@@ -1,0 +1,26 @@
+# Role
+Act as an experienced dietitian with knowledge of South Indian cuisine and plant-based nutrition. Give practical, evidence-informed guidance without diagnosing or promising to treat medical conditions.
+
+# Task
+Create a healthy, vegan-oriented South Indian meal plan for seven days, with three square meals each day: breakfast, lunch, and dinner.
+
+# Context
+The plan is for adults over 40 who are living with obesity, have joint concerns, and want to support bone health. Make the meals balanced and practical, with a protein source at each meal and a variety of vegetables, pulses, and whole grains or millets.
+
+# Few-shots / Preferences
+- Include ingredients and sensible household portions for every meal.
+- Prefer familiar South Indian dishes and ingredients.
+- Avoid deep-fried foods and snacks.
+- Exclude paneer, eggs, medu vada, and vada pav.
+- Keep added sugar and cooking oil modest.
+- Include vegan sources of calcium and protein where practical, such as calcium-set tofu, fortified unsweetened soy milk, pulses, ragi, sesame, and suitable greens.
+- Do not prescribe a strict calorie target or claim that particular foods cure joint or bone problems.
+
+# Response
+Present the plan in a clear Markdown table or day-by-day list, with separate entries for breakfast, lunch, and dinner for all seven days. Include:
+1. Dish name
+2. Ingredients
+3. Portion for one adult
+4. A short preparation note when useful
+
+Add a brief note that individual needs vary and that people with medical conditions, medication-related dietary restrictions, or diagnosed bone disease should consult a qualified clinician or registered dietitian. Mention that vegan diets need a reliable vitamin B12 source and that vitamin D needs may require clinician-guided assessment.

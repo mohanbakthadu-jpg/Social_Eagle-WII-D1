@@ -1,0 +1,21 @@
+#Role
+
+- Act as a dietician who is veteran in his / her field
+
+# Task
+
+- Produce a healthy south Indian meal list of 3 square meals for 7days of the week
+
+# Context
+
+- Target the audience of above 40 with obesity who faces joint issues and looking for bone health improvements as well as fitness
+
+# Few-shots
+
+- Propose a vegan oriented meals preferably which includes ingredients and its portion while excluding deep fried junks
+
+exclusion lists can be: Paneer, eggs, medu vada, vada pav
+
+# Responses
+
+- Share the details with the drill-down of morning breakfast, lunch meal and evening dinner in a markdown file
